@@ -1,4 +1,4 @@
-Sample Path, Gender, Cough with mucus, Cough with wheeze, Diagnosis,Person
+file_path, gender, mucus, wheeze, diagnosis,person
 not-covid19-coughs/PMID-16436200/1745-9974-2-1-S1.mp3, Female, no, no, Laryngitis,
 not-covid19-coughs/PMID-16436200/1745-9974-2-1-S2.mp3, Male, yes, yes, COPD/Bronchiectasis,
 not-covid19-coughs/PMID-16436200/1745-9974-2-1-S3.mp3, Female, no, yes, COPD,
